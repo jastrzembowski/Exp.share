@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Kamil",
+        "id": 1,
+        "price" : 50,
+        "level" : "podstawowa",
+        "location" : {
+            "city": "Gdańsk",
+            "postalCode": "90-324",
+            "street": "kamienna",
+            "streetNumber": "5"
+
+        },
+        "imageUrl": "https://images.pexels.com/photos/241044/pexels-photo-241044.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "description": "blebelebelblelbe"
+    }
+]
